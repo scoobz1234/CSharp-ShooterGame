@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a017e7cae1d1df645a8ed8c4a923fbc2
+timeCreated: 1488442511
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TESLA
+  fontNames:
+  - TESLA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
